@@ -1,0 +1,12 @@
+[
+    { "title": "Application Form", "description": "Completed and signed application form.", "circle": 3 },
+  { "title": "Photographs", "description": "Passport size photographs of the applicant and co-applicant (if any).", "circle": 3 },
+  { "title": "Identity Proof", "description": "Any one of the following:\nPassport\nAadhaar\nVoter ID\nDriving license", "circle": 3 },
+  { "title": "Bank Statements", "description": "For the last 6 months (both applicant and co-applicant).", "circle": 3 },
+  { "title": "Additional Documents", "description": "PAN card (Permanent Account Number)", "circle": 2 },
+  { "title": "Residence Proof", "description": "Any one of the following:\nPassport\nAadhaar\nVoter ID\nDriving license", "circle": 2 },
+  { "title": "Guarantor Form", "description": "If required, duly filled and signed.", "circle": 2 },
+  { "title": "Academic Records", "description": "Mark sheets and certificates of qualifying exams.\nAdmission letter.", "circle": 2 },
+  { "title": "Income Proof", "description": "For salaried individuals: Salary slips of the last 3 months, Form 16, and/or Income Tax Returns (ITR)\nFor self-employed individuals: ITR, Profit & Loss account, Balance Sheet, and/or Business Proof", "circle": 1 },
+  { "title": "Property Documents", "description": "If applicable as collateral, documents related to the property being pledged.", "circle": 4 }
+]
